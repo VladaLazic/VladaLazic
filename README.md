@@ -18,13 +18,11 @@ IT Manager (Sysadmin background) | Cloud & DevOps Learner | Full-stack Projects
 ## Certifications in progress
 
 - Linux Foundation Certified System Administrator (LFCS)
-- LPIC-1 (Linux Professional Institute Certification)
-- German B1 TELC exam preparation
-- Exploring AWS and Cisco networking certifications
+- AWS Cloud Practitioner and Cisco 200-201 CBROPS
 
 ## Current projects
 
-- Linux notes and labs
+- Cloud/DevOpsnotes and labs
 - AWS hands-on exercises
 - DevOps tooling and CI/CD experiments
 - Full-stack web app experiments
