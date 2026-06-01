@@ -1,16 +1,34 @@
 ## Hi there 👋
 
-<!--
-**VladaLazic/VladaLazic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!--# Hi, I'm Vladimir Lazić
 
-Here are some ideas to get you started:
+IT Manager (Sysadmin background) | Cloud & DevOps Learner | Full-stack Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Currently learning: Linux, AWS, Kubernetes, Terraform, DevOps practices
+- Working on: Learning projects and documentation on GitHub
+- Experience: 15+ years in IT systems administration and IT management roles
+- Interests: Cloud infrastructure, DevOps, networking, Linux, automation
+- Location: Hamburg, Germany
+
+## Tech stack
+
+- Platforms: Windows Server, Ubuntu/Linux, Microsoft 365, Azure, AWS
+- Cloud & Infra: AWS (EC2, S3, IAM), Azure AD, virtualization, networking, DNS
+- DevOps & Tools: Docker, Git/GitHub, CI/CD basics, scripting (PowerShell, Bash)
+- Development: TypeScript, React, Tailwind CSS, Supabase (Auth & DB)
+
+## Certifications in progress
+
+- Linux Foundation Certified System Administrator (LFCS)
+- CCNA 200-202 CBROPS
+- AWS Practitioner
+
+
+## Current projects
+
+- Cloud/DevOps notes and labs
+- AWS hands-on exercises
+- DevOps tooling and CI/CD experiments
+- Full-stack web app experiments
+
+
