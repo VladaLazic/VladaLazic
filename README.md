@@ -1,6 +1,4 @@
-## Hi there 👋
-
-<!--# Hi, I'm Vladimir Lazić
+# Hi, I'm Vladimir Lazić
 
 IT Manager (Sysadmin background) | Cloud & DevOps Learner | Full-stack Projects
 
@@ -20,15 +18,13 @@ IT Manager (Sysadmin background) | Cloud & DevOps Learner | Full-stack Projects
 ## Certifications in progress
 
 - Linux Foundation Certified System Administrator (LFCS)
-- CCNA 200-202 CBROPS
-- AWS Practitioner
-
+- LPIC-1 (Linux Professional Institute Certification)
+- German B1 TELC exam preparation
+- Exploring AWS and Cisco networking certifications
 
 ## Current projects
 
-- Cloud/DevOps notes and labs
+- Linux notes and labs
 - AWS hands-on exercises
 - DevOps tooling and CI/CD experiments
 - Full-stack web app experiments
-
-
