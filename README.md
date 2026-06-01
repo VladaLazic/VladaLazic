@@ -1,4 +1,4 @@
-# Hi, I'm Vladimir Lazić
+# Hi, I'm Vladimir Lazic
 
 IT Manager (Sysadmin background) | Cloud & DevOps Learner | Full-stack Projects
 
