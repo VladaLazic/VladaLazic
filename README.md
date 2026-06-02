@@ -22,7 +22,7 @@ IT Manager (Sysadmin background) | Cloud & DevOps Learner | Full-stack Projects
 
 ## Current projects
 
-- Cloud/DevOpsnotes and labs
+- Cloud/DevOps notes and labs
 - AWS hands-on exercises
 - DevOps tooling and CI/CD experiments
 - Full-stack web app experiments
